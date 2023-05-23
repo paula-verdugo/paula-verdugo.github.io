@@ -11,6 +11,9 @@
 
 ---
 
+- the whole thing didn't work originally because the "baseurl" in the config file needed to be changed to the website url
+- to change the links on the top: go to layout folder, default file
+
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
 > [Theme demo](https://reverie.pages.dev/)
