@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: /getting-started/
+title: Publications and preprints
+permalink: /research/
 ---
 
 <!--
