@@ -4,6 +4,7 @@ title: Publications and preprints
 permalink: /research/
 ---
 
+# Other writings
 <!--
 ### Step 1) Fork Reverie to your User Repository
 
