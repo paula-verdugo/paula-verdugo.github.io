@@ -65,6 +65,12 @@ table tr, table td, table th {
 </table>
 
 # Other writings
+
+<b> Dold-Kan equivalence and homotopy. </b><br>
+Dissertation for my Master in Mathematics.<br>
+
+<b>An intepretation of the Gerstenhaber algebra structure on Hochschild cohomology. </b> In Spanish.<br>
+Dissetation for my Bachelor in Mathematics.
 <!--
 ### Step 1) Fork Reverie to your User Repository
 
