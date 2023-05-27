@@ -41,10 +41,23 @@ table tr, table td, table th {
     <td><b>A 2Cat-inspired model structure for double categories</b><br>
     Joint with Lyne Moser and Maru Sarazola<br>
     In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.
-    <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version<a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
+    <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version <a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
   </tr>
   
+  <tr>
+    <td>2020</td>
+    <td><b>Stable homotopy hypothesis in the Tamsamani model</b><br>
+    Joint with Joint with Lyne Moser, Viktoriya Ozornova, Simona Paoli, and Maru Sarazola<br>
+    In <i>Topology and its Applications</i>, 2022. <br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166864122001080?via%3Dihub">Published version</a>, <a href="https://arxiv.org/abs/2001.05577">arXiv:2001.05577</a></td>
+  </tr>
   
+   <tr>
+    <td>2019</td>
+    <td><b>Fibrantly-induced model structures</b><br>
+    Joint with Hadrian Heine and Markus Spitzweck, <a href="https://arxiv.org/abs/1911.11682">arXiv:1911.11682</a>
+    </td>
+  </tr>
 
   
   
