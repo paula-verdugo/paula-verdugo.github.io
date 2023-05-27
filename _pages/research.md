@@ -25,17 +25,30 @@ table tr, table td, table th {
 
 <table class="no-border">
   <tr>
-    <td>Jan. 2023</td>
+    <td>2023</td>
     <td><b>Fibrantly-induced model structures</b><br>
     Joint with Léonard Guetta, Lyne Moser, and Maru Sarazola, <a href="https://arxiv.org/abs/2301.07801">arXiv:2301.07801</a>
     </td>
   </tr>
   <tr>
-    <td>July 2022</td>
+    <td>2022</td>
     <td><b>A model structure for weakly horizontally invariant double categories</b><br>
     Joint with Lyne Moser and Maru Sarazola, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
-      To appear in <i>Algebraic and Geometric Topology</i>.</td>
+    To appear in <i>Algebraic and Geometric Topology</i>.</td>
   </tr>
+  <tr>
+    <td>2020</td>
+    <td><b>A 2Cat-inspired model structure for double categories</b><br>
+    Joint with Lyne Moser and Maru Sarazola<br>
+    In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.
+    <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version<a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
+  </tr>
+  
+  
+
+  
+  
+  
 </table>
 
 # Other writings
