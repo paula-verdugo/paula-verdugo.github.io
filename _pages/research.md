@@ -27,19 +27,19 @@ table tr, table td, table th {
   <tr>
     <td>2023</td>
     <td><b>Fibrantly-induced model structures</b><br>
-    Joint with Léonard Guetta, Lyne Moser, and Maru Sarazola, <a href="https://arxiv.org/abs/2301.07801">arXiv:2301.07801</a>
+      Joint with Léonard Guetta, <a href="https://lynemoser.com/">Lyne Moser</a>, and Maru Sarazola, <a href="https://arxiv.org/abs/2301.07801">arXiv:2301.07801</a>
     </td>
   </tr>
   <tr>
     <td>2022</td>
     <td><b>A model structure for weakly horizontally invariant double categories</b><br>
-    Joint with Lyne Moser and Maru Sarazola, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
+    Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and Maru Sarazola, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
     To appear in <i>Algebraic and Geometric Topology</i>.</td>
   </tr>
   <tr>
     <td>2020</td>
     <td><b>A 2Cat-inspired model structure for double categories</b><br>
-    Joint with Lyne Moser and Maru Sarazola<br>
+    Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and Maru Sarazola<br>
     In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.
     <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version <a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
   </tr>
@@ -47,7 +47,7 @@ table tr, table td, table th {
   <tr>
     <td>2020</td>
     <td><b>Stable homotopy hypothesis in the Tamsamani model</b><br>
-    Joint with Joint with Lyne Moser, Viktoriya Ozornova, Simona Paoli, and Maru Sarazola<br>
+    Joint with Joint with <a href="https://lynemoser.com/">Lyne Moser</a>, Viktoriya Ozornova, Simona Paoli, and Maru Sarazola<br>
     In <i>Topology and its Applications</i>, 2022. <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166864122001080?via%3Dihub">Published version</a>, <a href="https://arxiv.org/abs/2001.05577">arXiv:2001.05577</a></td>
   </tr>
