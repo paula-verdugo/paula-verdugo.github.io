@@ -54,7 +54,7 @@ table tr, table td, table th {
   
    <tr>
     <td>2019</td>
-    <td><b>Fibrantly-induced model structures</b><br>
+    <td><b>Real K-theory for Waldhausen infinity categories with genuine duality</b><br>
       Joint with <a href="https://people.epfl.ch/hadrian.heine?lang=en">Hadrian Heine</a> and <a href="https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/spitzweck_markus.html">Markus Spitzweck</a>, <a href="https://arxiv.org/abs/1911.11682">arXiv:1911.11682</a>
     </td>
   </tr>
