@@ -40,7 +40,7 @@ table tr, table td, table th {
     <td>2020</td>
     <td><b>A 2Cat-inspired model structure for double categories</b><br>
     Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a><br>
-    In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.
+    In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.<br>
     <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version <a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
   </tr>
   
