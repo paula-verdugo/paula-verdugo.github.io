@@ -5,6 +5,42 @@ permalink: /teaching/
 ---
 I have been a teaching assistant in different courses. 
 ## At Universidad de la República, Uruguay
+
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+      background-color: white;
+  }
+  table {
+   border-collapse: collapse;
+}
+
+table tr, table td, table th {
+   border: none;
+}
+</style>
+<style>
+.right-justify {
+  text-align: right;
+}
+</style>
+
+<table class="no-border">
+  <tr>
+    <td>2021</td>
+    <td> * Rings and modules<br>
+         * Mathematics 1 (for Natural Sciences students)<br>
+    </td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td> * Mathematics 2 (for Natural Sciences students)<br>
+    </td>
+  </tr>
+</table>
+
+
+
 ## At Macquarie University, Australia
 ## At Universität Osnabrück, Germany
 <!--
