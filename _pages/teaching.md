@@ -34,12 +34,12 @@ table tr, table td, table th {
   <tr>
     <td>2021</td>
     <td>  *Rings and modules<br>
-          *Mathematics 1 (for Natural Sciences students)<br>
+          *Mathematics 1, for Natural Sciences students<br>
     </td>
   </tr>
   <tr>
     <td>2020</td>
-    <td>  *Mathematics 2 (for Natural Sciences students)<br>
+    <td>  *Mathematics 2, for Natural Sciences students<br>
     </td>
   </tr>
 </table>
@@ -109,13 +109,13 @@ Previously, during 2012-2015:
 
 ## At Universidad de la República, Uruguay
 
-* Mathematics I, for Natural Sciences students
-* Differential and Integral Calculus I, for Bachelor in Mathematics' students
+* Mathematics 1, for Natural Sciences students
+* Differential and Integral Calculus 1, for Bachelor in Mathematics' students
 * Introduction to Computer Sciences (functional programming in Haskell), for Bachelor in Mathematics' students
-* Linear algebra I, for Bachelor in Mathematics' students
-* Linear algebra II, for Bachelor in Mathematics' students
+* Linear algebra 1, for Bachelor in Mathematics' students
+* Linear algebra 2, for Bachelor in Mathematics' students
 * Linear algebra and geometry I, for Engineering students
-* Calculus I, for Engineering students
+* Calculus 1, for Engineering students
 
 
 
