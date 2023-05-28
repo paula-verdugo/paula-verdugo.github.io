@@ -30,6 +30,8 @@ table tr, table td, table th {
     <td>2021/2022</td>
     <td>  Designed and implemented courses and teachers' evaluations for all courses depending of the Mathematics Department<br>
     </td>
+  </tr>
+  <tr>
     <td>2021</td>
     <td>  *Rings and modules<br>
           *Mathematics 1 (for Natural Sciences students)<br>
