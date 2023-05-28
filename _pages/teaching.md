@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-
+I have been a teaching assistant in the 
 ## At Universidad de la República, Uruguay
 ## At Macquarie University, Australia
 ## At Universität Osnabrück, Germany
