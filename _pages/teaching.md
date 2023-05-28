@@ -95,7 +95,7 @@ table tr, table td, table th {
 <table class="no-border">
   <tr>
     <td>2018</td>
-    <td>  Mathematics I for other science students (Mathematik für Anwender I)<br>
+    <td>  Mathematics I for sciences students (Mathematik für Anwender I)<br>
     </td>
   </tr>
 </table>
