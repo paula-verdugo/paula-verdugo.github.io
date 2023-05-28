@@ -28,13 +28,13 @@ table tr, table td, table th {
 <table class="no-border">
   <tr>
     <td>2021</td>
-    <td> * Rings and modules<br>
-         * Mathematics 1 (for Natural Sciences students)<br>
+    <td>  Rings and modules<br>
+          Mathematics 1 (for Natural Sciences students)<br>
     </td>
   </tr>
   <tr>
     <td>2020</td>
-    <td> * Mathematics 2 (for Natural Sciences students)<br>
+    <td>  Mathematics 2 (for Natural Sciences students)<br>
     </td>
   </tr>
 </table>
@@ -42,6 +42,36 @@ table tr, table td, table th {
 
 
 ## At Macquarie University, Australia
+
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+      background-color: white;
+  }
+  table {
+   border-collapse: collapse;
+}
+
+table tr, table td, table th {
+   border: none;
+}
+</style>
+<style>
+.right-justify {
+  text-align: right;
+}
+</style>
+
+<table class="no-border">
+  <tr>
+    <td>2019</td>
+    <td>  MATH130 for Engineering, Mathematics, and Physics students<br>
+          Mathematics 1 (for Natural Sciences students)<br>
+          Teacher at the Numeracy Center, which offers individual help with the Mathematics and Statistics components of any first-year subject<br>
+    </td>
+  </tr>
+</table>
+
 ## At Universität Osnabrück, Germany
 <!--
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
