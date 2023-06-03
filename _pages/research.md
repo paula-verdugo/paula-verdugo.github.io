@@ -66,7 +66,7 @@ table tr, table td, table th {
 Dissertation for my Master in Mathematics.<br>
 
 <b>An intepretation of the Gerstenhaber algebra structure on Hochschild cohomology. </b> In Spanish.<br>
-Dissetation for my Bachelor in Mathematics.<br>
+Dissertation for my Bachelor in Mathematics.<br>
 
 
 <!--
