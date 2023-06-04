@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I have been a teaching assistant in different courses. 
+I have been a teaching assistant in a variety of courses at the following institutions:
 ## At Universidad de la República, Uruguay
 
 <style>
