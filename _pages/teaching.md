@@ -3,7 +3,25 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I have been a teaching assistant in a variety of courses at the following institutions:
+
+## At Johns Hopkins University, USA
+
+<table class="no-border">
+  <tr>
+    <td>Fall 2023</td>
+    <td>  *Calculus III (multivariable calculus)<br>
+    </td>
+  </tr>
+  <tr>
+    <td>Spring 2024</td>
+    <td>  *Introduction to Topology<br>
+  </td>
+  </tr>
+</table>
+
+
+
+I have also been a teaching assistant in a variety of courses at the following institutions:
 ## At Universidad de la República, Uruguay
 
 <style>
