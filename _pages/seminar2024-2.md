@@ -87,6 +87,75 @@ table tr, table td, table th {
     </td>
   </tr>
 
+   <tr>
+    <td>Dec 6</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>  
+
+   <tr>
+    <td>Dec 6</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>  
+
+  <tr>
+    <td>Dec 13</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr> 
+
+   <tr>
+    <td>Dec 20</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>  
+
+   <tr>
+    <td>Dec 27</td>
+    <td><b>Winter break</b><br>
+      Abstract
+    </td>
+  </tr>  
+
+   <tr>
+    <td>Jan 3</td>
+    <td><b>Winter break</b><br>
+      Abstract
+    </td>
+  </tr> 
+
+   <tr>
+    <td>Jan 10</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr> 
+
+   <tr>
+    <td>Jan 17</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr> 
+
+   <tr>
+    <td>Jan 24</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr> 
+
+  <tr>
+    <td>Jan 31</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr> 
 </table>
 
 
