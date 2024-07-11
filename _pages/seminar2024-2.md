@@ -8,9 +8,9 @@ permalink: /seminar2024-2/
   
 Summary and resources
 
-# Important info and logistics
+## Important info and logistics
 
-# Schedule
+## Schedule
 
 <style>
   .no-border, .no-border td, .no-border th {
