@@ -3,17 +3,18 @@ layout: page
 title: Seminar
 permalink: /seminar2024-2/
 ---
-
-Summary and resources
-
-# Important info and logistics
-
-# Schedule
 <style>
   .no-border, .no-border td, .no-border th {
     border: none;
       background-color: white;
   }
+  
+Summary and resources
+
+# Important info and logistics
+
+# Schedule
+
   table {
    border-collapse: collapse;
 }
