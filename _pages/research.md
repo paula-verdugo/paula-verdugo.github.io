@@ -26,6 +26,12 @@ table tr, table td, table th {
 <table class="no-border">
   <tr>
     <td>2023</td>
+    <td><b>Internal Grothendieck construction for enriched categories</b><br>
+      Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://arxiv.org/abs/2308.14455">arXiv:2308.14455</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2023</td>
     <td><b>Fibrantly-induced model structures</b><br>
       Joint with <a href="https://leoguetta.github.io/">Léonard Guetta</a>, <a href="https://lynemoser.com/">Lyne Moser</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://arxiv.org/abs/2301.07801">arXiv:2301.07801</a>
     </td>
