@@ -10,7 +10,7 @@ Summary and resources
 
 <b>When and where:</b> This seminar will take place on Friday at 10:00 at -room-
 
-<b>Organizers:</b> <a href="https://felixloubaton.github.io/">F&eacute lix Loubaton</a> and myself. Don't hesitate to contact us bla bla. 
+<b>Organizers:</b> <a href="https://felixloubaton.github.io/">Félix Loubaton</a> and myself. Don't hesitate to contact us bla bla. 
 
 
 
