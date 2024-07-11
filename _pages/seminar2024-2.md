@@ -8,9 +8,11 @@ permalink: /seminar2024-2/
   
 Summary and resources
 
-Organizers: F\'elix Loubaton and Paula Verdugo. Don't hesitate to contact us. 
+<b>When and where:</b> This seminar will take place on Friday at 10:00 at -room-
 
-## Important info and logistics
+<b>Organizers:</b> <a href="https://felixloubaton.github.io/">Felix Loubaton</a> and myself. Don't hesitate to contact us bla bla. 
+
+
 
 ## Schedule
 
@@ -37,6 +39,49 @@ table tr, table td, table th {
 <table class="no-border">
   <tr>
     <td>Oct 11</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Oct 18</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Oct 25</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Nov 1</td>
+    <td><b>Some holiday?</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Nov 8</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Nov 15</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+   <tr>
+    <td>Nov 22</td>
+    <td><b>Title talk - Speaker</b><br>
+      Abstract
+    </td>
+  </tr>
+
+   <tr>
+    <td>Nov 29</td>
     <td><b>Title talk - Speaker</b><br>
       Abstract
     </td>
