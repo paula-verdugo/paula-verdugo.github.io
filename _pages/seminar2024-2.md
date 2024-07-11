@@ -4,11 +4,7 @@ title: Seminar
 permalink: /seminar2024-2/
 ---
 
-<style>
-  .no-border, .no-border td, .no-border th {
-    border: none;
-      background-color: white;
-  }
+
   
 Summary and resources
 
