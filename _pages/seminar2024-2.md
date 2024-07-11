@@ -12,6 +12,12 @@ Summary and resources
 
 # Schedule
 
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+      background-color: white;
+  }
+  
   table {
    border-collapse: collapse;
 }
