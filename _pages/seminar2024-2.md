@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Seminar
+title: Seminar on -something cool-
 permalink: /seminar2024-2/
 ---
 
 
   
 Summary and resources
+
+Organizers: F\'elix Loubaton and Paula Verdugo. Don't hesitate to contact us. 
 
 ## Important info and logistics
 
