@@ -8,14 +8,15 @@ permalink: /seminar2024-2/
   
 Summary and resources
 
-<b>When and where:</b> This seminar will take place on Friday at 10:00 at -room-
+<b>When and where:</b> This seminar will take place on Friday at 10:00 in SemR 0.003.
 
 <b>Organizers:</b> <a href="https://felixloubaton.github.io/">Félix Loubaton</a> and myself. Don't hesitate to contact us bla bla. 
 
 
 
-## Schedule
+## Schedule 
 
+Below is a tentative schedule, things may change a bit depending on the background of the participants, the speed we cover topics, etc.
 <style>
   .no-border, .no-border td, .no-border th {
     border: none;
