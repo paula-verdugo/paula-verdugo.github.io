@@ -6,7 +6,7 @@ permalink: /seminar2024-2/
 
 This is a master students seminar, which means you will take turns to present each topic. You will be meeting with us in the week before your presentation to clarify questions, run the format of the talk you are planning, and/or practice your talk.
 
-Looking forward to meeting you!
+More references and information to come. Looking forward to meeting you!
 
 <b>When and where:</b> This seminar will take place on Fridays at 10:00 in SemR 0.003.
 
@@ -41,8 +41,11 @@ table tr, table td, table th {
     <tr>
     <td></td>
     <td><b>Functor calculus</b><br>
+    Some references: <br>
+      <a href=" https://arxiv.org/pdf/1902.00803"> https://arxiv.org/pdf/1902.00803</a><br> 
     </td>
   </tr>
+
   <tr>
     <td>Oct 11</td>
     <td><b> Stable categories, spectra, spectrum objects - Speaker</b><br>
@@ -93,7 +96,7 @@ table tr, table td, table th {
   </tr>
 
    <tr>
-    <td>Dec 6</td>
+    <td></td>
     <td><b>Higher topos theory</b><br>
       Some references:<br>
       <a href="https://rezk.web.illinois.edu/leeds-lectures-2019.pdf">Rezk's notes</a><br> 
@@ -108,25 +111,19 @@ table tr, table td, table th {
   </tr>  
 
    <tr>
-    <td>Dec 6</td>
+    <td>Dec 13</td>
     <td><b>Truncation, connectivity, orthogonality - Speaker</b><br>
       Abstract
     </td>
   </tr>  
 
   <tr>
-    <td>Dec 13</td>
+    <td>Dec 20</td>
     <td><b>Descent - Speaker</b><br>
       Abstract
     </td>
   </tr> 
-
-   <tr>
-    <td>Dec 20</td>
-    <td><b>Application of descent - Speaker</b><br>
-      Abstract
-    </td>
-  </tr>  
+  
 
    <tr>
     <td>Dec 27</td>
@@ -143,7 +140,7 @@ table tr, table td, table th {
 
    <tr>
     <td>Jan 10</td>
-    <td><b>Discussion and concluding remarks - Speaker</b><br>
+    <td><b>Applications of descent - Speaker</b><br>
       Abstract
     </td>
   </tr> 
