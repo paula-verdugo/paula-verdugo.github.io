@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Seminar on -something cool-
+title: Seminar on functor calculus and higher topos
 permalink: /seminar2024-2/
 ---
 
+This is a master students seminar, which means you will take turns to present each topic. You will be meeting with us in the week before your presentation to clarify questions, run the format of the talk you are planning, and/or practice your talk.
 
-  
-Summary and resources
+Looking forward to meeting you!
 
-<b>When and where:</b> This seminar will take place on Friday at 10:00 in SemR 0.003.
+<b>When and where:</b> This seminar will take place on Fridays at 10:00 in SemR 0.003.
 
-<b>Organizers:</b> <a href="https://felixloubaton.github.io/">Félix Loubaton</a> and myself. Don't hesitate to contact us bla bla. 
+<b>Organizers:</b> <a href="https://felixloubaton.github.io/">Félix Loubaton</a> and myself. Don't hesitate to contact us if you have any questions regarding this seminar.
 
 
 
 ## Schedule 
 
-Below is a tentative schedule, things may change a bit depending on the background of the participants, the speed we cover topics, etc.
+Below is a tentative schedule, things may change a bit depending on the background and interests of the participants, the speed we cover topics, etc.
 <style>
   .no-border, .no-border td, .no-border th {
     border: none;
@@ -38,52 +38,57 @@ table tr, table td, table th {
 </style>
 
 <table class="no-border">
+    <tr>
+    <td></td>
+    <td><b>Functor calculus</b><br>
+    </td>
+  </tr>
   <tr>
     <td>Oct 11</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b> Stable categories, spectra, spectrum objects - Speaker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Oct 18</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Cubical diagrams and n-excisive functors - Speaker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Oct 25</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Construction of Taylor’s tower - Speaker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 1</td>
-    <td><b>Some holiday?</b><br>
+    <td><b>Holiday</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 8</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Homogeneous functors, derivatives - Speaker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 15</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Cross-effects, layers of the Taylor tower, examples - Speaker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 22</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Derivatives of the identity - Speaker</b><br>
       Abstract
     </td>
   </tr>
 
    <tr>
     <td>Nov 29</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Analytic functors, Blakers-Massey theorem - Speaker</b><br>
       Abstract
     </td>
   </tr>
@@ -158,6 +163,10 @@ table tr, table td, table th {
     </td>
   </tr> 
 </table>
+
+
+
+
 
 
 
