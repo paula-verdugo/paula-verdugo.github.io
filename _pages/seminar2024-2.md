@@ -95,28 +95,36 @@ table tr, table td, table th {
 
    <tr>
     <td>Dec 6</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Higher topos theory</b><br>
+      Some references:<br>
+      <a href="https://rezk.web.illinois.edu/leeds-lectures-2019.pdf">Rezk's notes</a><br> 
+    </td>
+  </tr>
+
+   <tr>
+    <td>Dec 6</td>
+    <td><b>Motivation and introduction - Speaker</b><br>
       Abstract
     </td>
   </tr>  
 
    <tr>
     <td>Dec 6</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Truncation, connectivity, orthogonality - Speaker</b><br>
       Abstract
     </td>
   </tr>  
 
   <tr>
     <td>Dec 13</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Descent - Speaker</b><br>
       Abstract
     </td>
   </tr> 
 
    <tr>
     <td>Dec 20</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Application of descent - Speaker</b><br>
       Abstract
     </td>
   </tr>  
@@ -137,11 +145,17 @@ table tr, table td, table th {
 
    <tr>
     <td>Jan 10</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Discussion and concluding remarks - Speaker</b><br>
       Abstract
     </td>
   </tr> 
 
+  <tr>
+    <td></td>
+    <td><b>Functor calculus and higher topos</b><br>
+      In the last lectures we expect to see some applications and relations between these two topics.
+    </td>
+  </tr>
    <tr>
     <td>Jan 17</td>
     <td><b>Title talk - Speaker</b><br>
