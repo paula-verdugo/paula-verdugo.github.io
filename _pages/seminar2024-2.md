@@ -64,7 +64,6 @@ table tr, table td, table th {
    <tr>
     <td>Nov 1</td>
     <td><b>Holiday</b><br>
-      Abstract
     </td>
   </tr>
    <tr>
@@ -132,14 +131,13 @@ table tr, table td, table th {
    <tr>
     <td>Dec 27</td>
     <td><b>Winter break</b><br>
-      Abstract
+      Have fun!
     </td>
   </tr>  
 
    <tr>
     <td>Jan 3</td>
     <td><b>Winter break</b><br>
-      Abstract
     </td>
   </tr> 
 
