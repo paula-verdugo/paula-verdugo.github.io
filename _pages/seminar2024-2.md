@@ -105,21 +105,21 @@ table tr, table td, table th {
 
    <tr>
     <td>Dec 6</td>
-    <td><b>Motivation and introduction - Yining Chen</b><br>
+    <td><b>Motivation and introduction - Mathieu Wydra</b><br>
       Abstract
     </td>
   </tr>  
 
    <tr>
     <td>Dec 13</td>
-    <td><b>Truncation, connectivity, orthogonality - Ruizhi Zhu</b><br>
+    <td><b>Truncation, connectivity, orthogonality - Yining Chen</b><br>
       Abstract
     </td>
   </tr>  
 
   <tr>
     <td>Dec 20</td>
-    <td><b>Descent -  Yiyang Chang</b><br>
+    <td><b>Descent - Ruizhi Zhu </b><br>
       Abstract
     </td>
   </tr> 
@@ -140,7 +140,7 @@ table tr, table td, table th {
 
    <tr>
     <td>Jan 10</td>
-    <td><b>Applications of descent - Carl Foh </b><br>
+    <td><b>Applications of descent - Yiyang Chang</b><br>
       Abstract
     </td>
   </tr> 
@@ -153,21 +153,21 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Jan 17</td>
-    <td><b>Title talk - Julias Mann</b><br>
+    <td><b>Title talk - Carl Foh </b><br>
       Abstract
     </td>
   </tr> 
 
    <tr>
     <td>Jan 24</td>
-    <td><b>Title talk - Hoi Pak Lau</b><br>
+    <td><b>Title talk - Julias Mann</b><br>
       Abstract
     </td>
   </tr> 
 
   <tr>
     <td>Jan 31</td>
-    <td><b>Closing comments  </b><br>
+    <td><b>Title talk - Hoi Pak Lau</b><br>
       Abstract
     </td>
   </tr> 
