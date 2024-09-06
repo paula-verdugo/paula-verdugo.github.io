@@ -54,13 +54,13 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Oct 18</td>
-    <td><b>Cubical diagrams and n-excisive functors - Speaker</b><br>
+    <td><b>Cubical diagrams and n-excisive functors - Yordan Toshev</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Oct 25</td>
-    <td><b>Construction of Taylor’s tower - Speaker</b><br>
+    <td><b>Construction of Taylor’s tower - Ben Steffan</b><br>
       Abstract
     </td>
   </tr>
@@ -71,26 +71,26 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Nov 8</td>
-    <td><b>Homogeneous functors, derivatives - Speaker</b><br>
+    <td><b>Homogeneous functors, derivatives - Iris Hebbeker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 15</td>
-    <td><b>Cross-effects, layers of the Taylor tower, examples - Speaker</b><br>
+    <td><b>Cross-effects, layers of the Taylor tower, examples - TBD</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 22</td>
-    <td><b>Derivatives of the identity - Speaker</b><br>
+    <td><b>Derivatives of the identity - Javier Fernández Piriz</b><br>
       Abstract
     </td>
   </tr>
 
    <tr>
     <td>Nov 29</td>
-    <td><b>Analytic functors, Blakers-Massey theorem - Speaker</b><br>
+    <td><b>Analytic functors, Blakers-Massey theorem - Kunhong Du</b><br>
       Abstract
     </td>
   </tr>
@@ -112,14 +112,14 @@ table tr, table td, table th {
 
    <tr>
     <td>Dec 13</td>
-    <td><b>Truncation, connectivity, orthogonality - Speaker</b><br>
+    <td><b>Truncation, connectivity, orthogonality - Yining Chen</b><br>
       Abstract
     </td>
   </tr>  
 
   <tr>
     <td>Dec 20</td>
-    <td><b>Descent - Speaker</b><br>
+    <td><b>Descent - Ruizhi Zhu</b><br>
       Abstract
     </td>
   </tr> 
@@ -140,7 +140,7 @@ table tr, table td, table th {
 
    <tr>
     <td>Jan 10</td>
-    <td><b>Applications of descent - Speaker</b><br>
+    <td><b>Applications of descent - Yiyang Chang</b><br>
       Abstract
     </td>
   </tr> 
@@ -153,21 +153,21 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Jan 17</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Title talk - Carl Foh</b><br>
       Abstract
     </td>
   </tr> 
 
    <tr>
     <td>Jan 24</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Title talk - Julias Mann</b><br>
       Abstract
     </td>
   </tr> 
 
   <tr>
     <td>Jan 31</td>
-    <td><b>Title talk - Speaker</b><br>
+    <td><b>Title talk - Hoi Pak Lau </b><br>
       Abstract
     </td>
   </tr> 
