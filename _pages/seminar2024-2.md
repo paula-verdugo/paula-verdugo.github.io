@@ -41,14 +41,14 @@ table tr, table td, table th {
     <tr>
     <td></td>
     <td><b>Functor calculus</b><br>
-    Some references: <br>
+    Some references:<br>
       <a href="https://access.portico.org/Portico/auView?auId=ark:%2F27927%2Fpgg197gsp6p"> https://access.portico.org/Portico/auView?auId=ark:%2F27927%2Fpgg197gsp6p<br>
       <a href="https://access.portico.org/Portico/auView?auId=ark:%2F27927%2Fpgg197gqjcd"> https://access.portico.org/Portico/auView?auId=ark:%2F27927%2Fpgg197gqjcd<br>
       <a href="https://projecteuclid.org/journals/geometry-and-topology/volume-7/issue-2/Calculus-III-Taylor-Series/10.2140/gt.2003.7.645.full"> https://projecteuclid.org/journals/geometry-and-topology/volume-7/issue-2/Calculus-III-Taylor-Series/10.2140/gt.2003.7.645.full<br>
-    Nice overviews and other sources: <br>
+     Nice overviews and other sources:<br>
       <a href="https://arxiv.org/pdf/1902.00803"> https://arxiv.org/pdf/1902.00803</a><br> 
       <a href="https://arxiv.org/pdf/math/0410342"> https://arxiv.org/pdf/math/0410342</a><br>
-      For this part, we are following Talbot 2012 program; there are resources in the website <a href="https://math.mit.edu/events/talbot/index.php?year=2012&sub=talks"> https://math.mit.edu/events/talbot/index.php?year=2012&sub=talks<br>
+      For this part, we are following Talbot 2012 program; there are resources in the website <a href="https://math.mit.edu/events/talbot/index.php?year=2012&sub=talks"> https://math.mit.edu/events/talbot/index.php?year=2012&sub=talks
     </td>
   </tr>
 
