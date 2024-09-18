@@ -83,7 +83,7 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Nov 15</td>
-    <td><b>Cross-effects, layers of the Taylor tower, examples - TBD</b><br>
+    <td><b>Cross-effects, layers of the Taylor tower, examples - David Bowman</b><br>
       Abstract
     </td>
   </tr>
