@@ -159,14 +159,14 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Jan 17</td>
-    <td><b>Title talk - Carl Foh </b><br>
+    <td><b>Title talk - Carl Foth </b><br>
       Abstract
     </td>
   </tr> 
 
    <tr>
     <td>Jan 24</td>
-    <td><b>Title talk - Julias Mann</b><br>
+    <td><b>Title talk - Julius Mann</b><br>
       Abstract
     </td>
   </tr> 
