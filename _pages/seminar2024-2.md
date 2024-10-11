@@ -66,8 +66,8 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Oct 25</td>
-    <td><b>Construction of Taylor’s tower - Ben Steffan</b><br>
-      Abstract
+    <td><b></b><br>
+      No seminar
     </td>
   </tr>
    <tr>
@@ -77,29 +77,36 @@ table tr, table td, table th {
   </tr>
    <tr>
     <td>Nov 8</td>
-    <td><b>Homogeneous functors, derivatives - Iris Hebbeker</b><br>
+     <td><b>Construction of Taylor’s tower -  Iris Hebbeker</b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 15</td>
-    <td><b>Cross-effects, layers of the Taylor tower, examples - David Bowman</b><br>
+     <td><b>Homogeneous functors, derivatives - Javier Fernández Piriz </b><br>
       Abstract
     </td>
   </tr>
    <tr>
     <td>Nov 22</td>
-    <td><b>Derivatives of the identity - Javier Fernández Piriz</b><br>
+    <td><b>Cross-effects, layers of the Taylor tower, examples - Yiyang Chang</b><br>
       Abstract
     </td>
   </tr>
 
    <tr>
     <td>Nov 29</td>
-    <td><b>Analytic functors, Blakers-Massey theorem - Kunhong Du</b><br>
-      Abstract
+    <td><b></b><br>
+      No seminar
     </td>
   </tr>
+
+  <tr>
+    <td>Dec 6</td>
+     <td><b>Derivatives of the identity - Kunhong Du</b><br>
+      Abstract
+    </td>
+  </tr>  
 
    <tr>
     <td></td>
@@ -110,26 +117,18 @@ table tr, table td, table th {
   </tr>
 
    <tr>
-    <td>Dec 6</td>
-    <td><b>Motivation and introduction - Mathieu Wydra</b><br>
+    <td>Dec 13</td>
+     <td><b>Derivatives of the identity - Kunhong Du</b><br>
       Abstract
     </td>
   </tr>  
 
    <tr>
-    <td>Dec 13</td>
-    <td><b>Truncation, connectivity, orthogonality - Yining Chen</b><br>
-      Abstract
+    <td>Dec 20</td>
+    <td><b></b><br>
+      No seminar
     </td>
   </tr>  
-
-  <tr>
-    <td>Dec 20</td>
-    <td><b>Descent - Ruizhi Zhu </b><br>
-      Abstract
-    </td>
-  </tr> 
-  
 
    <tr>
     <td>Dec 27</td>
@@ -144,12 +143,30 @@ table tr, table td, table th {
     </td>
   </tr> 
 
-   <tr>
+
+  <tr>
     <td>Jan 10</td>
-    <td><b>Applications of descent - Yiyang Chang</b><br>
+    <td><b>Truncation, connectivity, orthogonality - Yining Chen</b><br>
       Abstract
     </td>
   </tr> 
+  
+
+   <tr>
+    <td>Jan 17</td>
+      <td><b>Descent - Carl Foth </b><br>
+      Abstract
+    </td>
+  </tr> 
+
+
+   <tr>
+    <td>Jan 24</td>
+      <td><b>Applications of descent - Julius Mann </b><br>
+      Abstract
+    </td>
+  </tr>
+
 
   <tr>
     <td></td>
@@ -158,25 +175,12 @@ table tr, table td, table th {
     </td>
   </tr>
    <tr>
-    <td>Jan 17</td>
-    <td><b>Title talk - Carl Foth </b><br>
-      Abstract
-    </td>
-  </tr> 
-
-   <tr>
-    <td>Jan 24</td>
-    <td><b>Title talk - Julius Mann</b><br>
-      Abstract
-    </td>
-  </tr> 
-
-  <tr>
     <td>Jan 31</td>
-    <td><b>Title talk - Hoi Pak Lau</b><br>
+    <td><b>Title talk - Hoi Pak Lau </b><br>
       Abstract
     </td>
   </tr> 
+
 </table>
 
 
