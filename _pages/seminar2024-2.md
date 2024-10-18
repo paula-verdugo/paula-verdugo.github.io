@@ -118,7 +118,7 @@ table tr, table td, table th {
 
    <tr>
     <td>Dec 13</td>
-     <td><b>Derivatives of the identity - Kunhong Du</b><br>
+     <td><b>]Motivation and introduction - Mathieu Wydra</b><br>
       Abstract
     </td>
   </tr>  
