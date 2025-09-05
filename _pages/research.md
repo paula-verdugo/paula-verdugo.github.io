@@ -25,13 +25,13 @@ table tr, table td, table th {
 
 <table class="no-border">
   <tr>
-    <td>2023</td>
+    <td>2025</td>
     <td><b>On the equivalence invariance of formal category theory</b><br>
        <a href="https://arxiv.org/abs/2509.04255">arXiv:2509.04255</a>
     </td>
   </tr>
   <tr>
-    <td>2023</td>
+    <td>2024</td>
     <td><b>An equivalence between the real S- and the hermitian Q-construction</b><br>
       Joint with <a href="https://www.mn.uio.no/math/english/people/aca/hadriah/">Hadrian Heine</a> and <a href="https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/spitzweck_markus.html">Markus Spitzweck</a>, <a href="https://arxiv.org/abs/2410.07846">arXiv:2410.07846</a>
     </td>
