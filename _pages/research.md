@@ -27,9 +27,15 @@ table tr, table td, table th {
 
   <tr>
     <td>2025</td>
-    <td><b>Internal Grothendieck construction for enriched categories</b><br>
+    <td><b>Realizing compatible pairs of transfer systems by combinatorial $N_\infty$-operads</b><br>
       Joint with <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="">Myungsin Cho</a>,
       <a href="https://www.davidmehrle.com/">David Mehrle</a>, <a href="https://pabloocal.github.io/">Pablo S. Ocal</a>, <a href="https://people.reed.edu/~aosorno/">Ang\'elica Osorno</a>, and <a href="https://www.benszczesny.com/">Ben Szczesny</a>, <a href="https://arxiv.org/abs/2510.26047">arXiv:2510.26047</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td><b>Double categorical equivalences</b><br>
+      Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://arxiv.org/abs/2509.23181">arXiv:2509.23181</a>
     </td>
   </tr>
   <tr>
