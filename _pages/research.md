@@ -24,6 +24,14 @@ table tr, table td, table th {
 </style>
 
 <table class="no-border">
+
+  <tr>
+    <td>2025</td>
+    <td><b>Internal Grothendieck construction for enriched categories</b><br>
+      Joint with <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="">Myungsin Cho</a>,
+      <a href="https://www.davidmehrle.com/">David Mehrle</a>, <a href="https://pabloocal.github.io/">Pablo S. Ocal</a>, <a href="https://people.reed.edu/~aosorno/">Ang\'elica Osorno</a>, and <a href="https://www.benszczesny.com/">Ben Szczesny</a>, <a href="https://arxiv.org/abs/2510.26047">arXiv:2510.26047</a>
+    </td>
+  </tr>
   <tr>
     <td>2025</td>
     <td><b>On the equivalence invariance of formal category theory</b><br>
