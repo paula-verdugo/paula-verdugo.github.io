@@ -67,7 +67,7 @@ table tr, table td, table th {
     <td>2022</td>
     <td><b>A model structure for weakly horizontally invariant double categories</b><br>
     Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
-    In <i>Algebraic and Geometric Topology (2023)</i>.<br>
+    In <i>Algebraic and Geometric Topology</i> (2023).<br>
      <a href="https://msp.org/agt/2023/23-4/p08.xhtml">Published version</a>, arXiv version <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a></td>  
   </tr>
   <tr>
