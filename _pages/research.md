@@ -67,13 +67,14 @@ table tr, table td, table th {
     <td>2022</td>
     <td><b>A model structure for weakly horizontally invariant double categories</b><br>
     Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
-    To appear in <i>Algebraic and Geometric Topology</i>.</td>
+    In <i>Algebraic and Geometric Topology (2023)</i>.<br>
+     <a href="https://msp.org/agt/2023/23-4/p08.xhtml">Published version</a>, arXiv version <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a></td>  
   </tr>
   <tr>
     <td>2020</td>
     <td><b>A 2Cat-inspired model structure for double categories</b><br>
     Joint with <a href="https://lynemoser.com/">Lyne Moser</a> and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a><br>
-    In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i>. Volume LXIII-2 (2022), pp. 184-236.<br>
+    In <i>Cahiers de Topologie et Géométrie Différentielle Catégoriques</i> (2022).<br>
     <a href="http://cahierstgdc.com/wp-content/uploads/2022/04/MoserSarazolaVerdugo-LXIII-2.pdf">Published version</a>, extended version <a href="https://arxiv.org/abs/2004.14233">arXiv:2004.14233</a></td>
   </tr>
   
@@ -81,7 +82,7 @@ table tr, table td, table th {
     <td>2020</td>
     <td><b>Stable homotopy hypothesis in the Tamsamani model</b><br>
     Joint with Joint with <a href="https://lynemoser.com/">Lyne Moser</a>, <a href="https://people.mpim-bonn.mpg.de/viktoriya.ozornova/">Viktoriya Ozornova</a>, <a href="https://sites.google.com/view/simona-paoli-webpage">Simona Paoli</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a><br>
-    In <i>Topology and its Applications</i>, 2022. <br>
+    In <i>Topology and its Applications</i> (2022). <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166864122001080?via%3Dihub">Published version</a>, <a href="https://arxiv.org/abs/2001.05577">arXiv:2001.05577</a></td>
   </tr>
   
