@@ -26,7 +26,7 @@ table tr, table td, table th {
 <table class="no-border">
 
 <tr>
-    <td>2024</td>
+    <td>2026</td>
     <td><b>A multiplicative universal property for real algebraic K-theory</b><br>
       Joint with <a href="https://www.mn.uio.no/math/english/people/aca/hadriah/">Hadrian Heine</a> and <a href="https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/spitzweck_markus.html">Markus Spitzweck</a>, <a href="https://arxiv.org/abs/2609.26741">arXiv:2609.26741</a>
     </td>
