@@ -25,6 +25,20 @@ table tr, table td, table th {
 
 <table class="no-border">
 
+<tr>
+    <td>2024</td>
+    <td><b>A multiplicative universal property for real algebraic K-theory</b><br>
+      Joint with <a href="https://www.mn.uio.no/math/english/people/aca/hadriah/">Hadrian Heine</a> and <a href="https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/spitzweck_markus.html">Markus Spitzweck</a>, <a href="https://arxiv.org/abs/2609.26741">arXiv:2609.26741</a>
+    </td>
+  </tr>
+
+<tr>
+    <td>2026</td>
+    <td><b>A model structure for cartesian 2-fibrations</b><br>
+      Joint with Cesar Bardomiano Martinez, Jana Nickel, Maru Sarazola, Daniel Teizeira, and Santiago Toro Oquendo, <a href="https://arxiv.org/abs/2609.11759">arXiv:2609.11759</a>
+    </td>
+  </tr>
+
   <tr>
     <td>2025</td>
     <td><b>Realizing compatible pairs of transfer systems by combinatorial N_infinity-operads</b><br>
@@ -46,7 +60,7 @@ table tr, table td, table th {
   </tr>
   <tr>
     <td>2024</td>
-    <td><b>An equivalence between the real S- and the hermitian Q-construction</b><br>
+    <td><b>An equivalence between two frameworks for real algebraic K-theory</b><br>
       Joint with <a href="https://www.mn.uio.no/math/english/people/aca/hadriah/">Hadrian Heine</a> and <a href="https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/spitzweck_markus.html">Markus Spitzweck</a>, <a href="https://arxiv.org/abs/2410.07846">arXiv:2410.07846</a>
     </td>
   </tr>
