@@ -35,7 +35,7 @@ table tr, table td, table th {
 <tr>
     <td>2026</td>
     <td><b>A model structure for cartesian 2-fibrations</b><br>
-      Joint with Cesar Bardomiano Martinez, Jana Nickel, Maru Sarazola, Daniel Teizeira, and Santiago Toro Oquendo, <a href="https://arxiv.org/abs/2609.11759">arXiv:2609.11759</a>
+      Joint with  <a href="https://cesarbm03.github.io/">Cesar Bardomiano Martinez</a>,  <a href="https://www.nickel-math.com/">Jana K. Nickel</a>, <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>, <a href="https://weak-equivalent.github.io/">Daniel Teixeira</a>, and <a href="https://storoo.fr/">Santiago Toro Oquendo</a>, <a href="https://arxiv.org/abs/2609.11759">arXiv:2609.11759</a>
     </td>
   </tr>
 
